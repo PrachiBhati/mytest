@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                sh 'echo "Hello World from Docker Agent5!"'
+                sh 'echo "Hello World from Docker Agent6!"'
             }
         }
     }
